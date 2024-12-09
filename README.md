@@ -1,85 +1,41 @@
-Loan Framework SDK
+# Loan Framework SDK
 
-Welcome to the Loan Framework SDK! This SDK allows developers to integrate loan application and tracking functionality into their applications seamlessly.
+Welcome to the **Loan Framework SDK**! This SDK allows developers to integrate loan application and tracking functionality into their iOS applications seamlessly.
 
-Features
+---
 
-Apply for Loans: Users can submit loan applications directly through your app.
+## Features
 
-Track Loan Status: Provide real-time updates on the status of loan applications.
+- **Apply for Loans:** Users can submit loan applications directly through your app.
+- **Track Loan Status:** Provide real-time updates on the status of loan applications.
 
-Installation
+---
 
-CocoaPods (iOS)
+## Installation
 
-Add the following line to your Podfile:
+### CocoaPods (iOS)
 
-pod 'Loans', :git => 'https://github.com/sreekarMoneyLink/Loans.git', :tag => '1.0.0'
+1. Add the following line to your `Podfile`:
 
-Then, run:
+    ```ruby
+    pod 'Loans', :git => 'https://github.com/sreekarMoneyLink/Loans.git', :tag => '1.0.0'
+    ```
 
-pod install
+2. Run the following command in your terminal:
 
-Usage
+    ```bash
+    pod install
+    ```
 
-Initialization
+---
 
+## Usage
+
+### Initialization
+
+To initialize the SDK in your app, import the Loan Framework and call the following function:
+
+```swift
 import LoanFramework
 
 LoanFramework.MyAppSDKManager.launchLending(from: self, isPush: true)
-
-Requirements
-
-iOS: iOS 11.0 or later
-
-Support
-
-If you encounter any issues or have questions, please contact our support team at support@loanframework.com.
-
-License
-
-The Loan Framework SDK is available under the MIT license. See the LICENSE file for more information.
-     
-this is my read me change it using css make headings bold and size is 4 pxle more than defaultLoan Framework SDK
-
-Welcome to the Loan Framework SDK! This SDK allows developers to integrate loan application and tracking functionality into their applications seamlessly.
-
-Features
-
-Apply for Loans: Users can submit loan applications directly through your app.
-
-Track Loan Status: Provide real-time updates on the status of loan applications.
-
-Installation
-
-CocoaPods (iOS)
-
-Add the following line to your Podfile:
-
-pod 'Loans', :git => 'https://github.com/sreekarMoneyLink/Loans.git', :tag => '1.0.0'
-
-Then, run:
-
-pod install
-
-Usage
-
-Initialization
-
-import LoanFramework
-
-LoanFramework.MyAppSDKManager.launchLending(from: self, isPush: true)
-
-Requirements
-
-iOS: iOS 11.0 or later
-
-Support
-
-If you encounter any issues or have questions, please contact our support team at support@loanframework.com.
-
-License
-
-The Loan Framework SDK is available under the MIT license. See the LICENSE file for more information.
-     
-this is my read me change it using css make headings bold and size is 4 pxle more than default
