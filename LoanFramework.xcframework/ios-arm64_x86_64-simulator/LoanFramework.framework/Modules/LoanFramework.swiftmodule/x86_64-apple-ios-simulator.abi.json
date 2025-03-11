@@ -9,6 +9,3256 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DropDown",
+        "printedName": "DropDown",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "selectedIndex",
+            "printedName": "selectedIndex",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC13selectedIndexSiSgvp",
+            "mangledName": "$s13LoanFramework8DropDownC13selectedIndexSiSgvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC13selectedIndexSiSgvg",
+                "mangledName": "$s13LoanFramework8DropDownC13selectedIndexSiSgvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC13selectedIndexSiSgvs",
+                "mangledName": "$s13LoanFramework8DropDownC13selectedIndexSiSgvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC13selectedIndexSiSgvM",
+                "mangledName": "$s13LoanFramework8DropDownC13selectedIndexSiSgvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "selectedSection",
+            "printedName": "selectedSection",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC15selectedSectionSiSgvp",
+            "mangledName": "$s13LoanFramework8DropDownC15selectedSectionSiSgvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC15selectedSectionSiSgvg",
+                "mangledName": "$s13LoanFramework8DropDownC15selectedSectionSiSgvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC15selectedSectionSiSgvs",
+                "mangledName": "$s13LoanFramework8DropDownC15selectedSectionSiSgvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC15selectedSectionSiSgvM",
+                "mangledName": "$s13LoanFramework8DropDownC15selectedSectionSiSgvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "numberOfSections",
+            "printedName": "numberOfSections",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC16numberOfSectionsSivp",
+            "mangledName": "$s13LoanFramework8DropDownC16numberOfSectionsSivp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16numberOfSectionsSivg",
+                "mangledName": "$s13LoanFramework8DropDownC16numberOfSectionsSivg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16numberOfSectionsSivs",
+                "mangledName": "$s13LoanFramework8DropDownC16numberOfSectionsSivs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16numberOfSectionsSivM",
+                "mangledName": "$s13LoanFramework8DropDownC16numberOfSectionsSivM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "scrollToSelectedIndex",
+            "printedName": "scrollToSelectedIndex",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC21scrollToSelectedIndexSbvp",
+            "mangledName": "$s13LoanFramework8DropDownC21scrollToSelectedIndexSbvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC21scrollToSelectedIndexSbvg",
+                "mangledName": "$s13LoanFramework8DropDownC21scrollToSelectedIndexSbvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC21scrollToSelectedIndexSbvs",
+                "mangledName": "$s13LoanFramework8DropDownC21scrollToSelectedIndexSbvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC21scrollToSelectedIndexSbvM",
+                "mangledName": "$s13LoanFramework8DropDownC21scrollToSelectedIndexSbvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "selectedTextColor",
+            "printedName": "selectedTextColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC17selectedTextColorSo7UIColorCvp",
+            "mangledName": "$s13LoanFramework8DropDownC17selectedTextColorSo7UIColorCvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC17selectedTextColorSo7UIColorCvg",
+                "mangledName": "$s13LoanFramework8DropDownC17selectedTextColorSo7UIColorCvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC17selectedTextColorSo7UIColorCvs",
+                "mangledName": "$s13LoanFramework8DropDownC17selectedTextColorSo7UIColorCvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC17selectedTextColorSo7UIColorCvM",
+                "mangledName": "$s13LoanFramework8DropDownC17selectedTextColorSo7UIColorCvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "rowHeight",
+            "printedName": "rowHeight",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)rowHeight",
+            "mangledName": "$s13LoanFramework8DropDownC9rowHeight12CoreGraphics7CGFloatVvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "RawDocComment",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)rowHeight",
+                "mangledName": "$s13LoanFramework8DropDownC9rowHeight12CoreGraphics7CGFloatVvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setRowHeight:",
+                "mangledName": "$s13LoanFramework8DropDownC9rowHeight12CoreGraphics7CGFloatVvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC9rowHeight14CoreFoundation7CGFloatVvM",
+                "mangledName": "$s13LoanFramework8DropDownC9rowHeight12CoreGraphics7CGFloatVvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "rowBackgroundColor",
+            "printedName": "rowBackgroundColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)rowBackgroundColor",
+            "mangledName": "$s13LoanFramework8DropDownC18rowBackgroundColorSo7UIColorCvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)rowBackgroundColor",
+                "mangledName": "$s13LoanFramework8DropDownC18rowBackgroundColorSo7UIColorCvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setRowBackgroundColor:",
+                "mangledName": "$s13LoanFramework8DropDownC18rowBackgroundColorSo7UIColorCvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC18rowBackgroundColorSo7UIColorCvM",
+                "mangledName": "$s13LoanFramework8DropDownC18rowBackgroundColorSo7UIColorCvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "rowTextColor",
+            "printedName": "rowTextColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)rowTextColor",
+            "mangledName": "$s13LoanFramework8DropDownC12rowTextColorSo7UIColorCvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)rowTextColor",
+                "mangledName": "$s13LoanFramework8DropDownC12rowTextColorSo7UIColorCvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setRowTextColor:",
+                "mangledName": "$s13LoanFramework8DropDownC12rowTextColorSo7UIColorCvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC12rowTextColorSo7UIColorCvM",
+                "mangledName": "$s13LoanFramework8DropDownC12rowTextColorSo7UIColorCvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "selectedRowColor",
+            "printedName": "selectedRowColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)selectedRowColor",
+            "mangledName": "$s13LoanFramework8DropDownC16selectedRowColorSo7UIColorCvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)selectedRowColor",
+                "mangledName": "$s13LoanFramework8DropDownC16selectedRowColorSo7UIColorCvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setSelectedRowColor:",
+                "mangledName": "$s13LoanFramework8DropDownC16selectedRowColorSo7UIColorCvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16selectedRowColorSo7UIColorCvM",
+                "mangledName": "$s13LoanFramework8DropDownC16selectedRowColorSo7UIColorCvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "hideOptionsWhenSelect",
+            "printedName": "hideOptionsWhenSelect",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)hideOptionsWhenSelect",
+            "mangledName": "$s13LoanFramework8DropDownC21hideOptionsWhenSelectSbvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)hideOptionsWhenSelect",
+                "mangledName": "$s13LoanFramework8DropDownC21hideOptionsWhenSelectSbvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setHideOptionsWhenSelect:",
+                "mangledName": "$s13LoanFramework8DropDownC21hideOptionsWhenSelectSbvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC21hideOptionsWhenSelectSbvM",
+                "mangledName": "$s13LoanFramework8DropDownC21hideOptionsWhenSelectSbvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isSearchEnable",
+            "printedName": "isSearchEnable",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)isSearchEnable",
+            "mangledName": "$s13LoanFramework8DropDownC14isSearchEnableSbvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)isSearchEnable",
+                "mangledName": "$s13LoanFramework8DropDownC14isSearchEnableSbvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setIsSearchEnable:",
+                "mangledName": "$s13LoanFramework8DropDownC14isSearchEnableSbvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC14isSearchEnableSbvM",
+                "mangledName": "$s13LoanFramework8DropDownC14isSearchEnableSbvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "borderColor",
+            "printedName": "borderColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)borderColor",
+            "mangledName": "$s13LoanFramework8DropDownC11borderColorSo7UIColorCvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "RawDocComment",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)borderColor",
+                "mangledName": "$s13LoanFramework8DropDownC11borderColorSo7UIColorCvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setBorderColor:",
+                "mangledName": "$s13LoanFramework8DropDownC11borderColorSo7UIColorCvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC11borderColorSo7UIColorCvM",
+                "mangledName": "$s13LoanFramework8DropDownC11borderColorSo7UIColorCvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "listHeight",
+            "printedName": "listHeight",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)listHeight",
+            "mangledName": "$s13LoanFramework8DropDownC10listHeight12CoreGraphics7CGFloatVvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)listHeight",
+                "mangledName": "$s13LoanFramework8DropDownC10listHeight12CoreGraphics7CGFloatVvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setListHeight:",
+                "mangledName": "$s13LoanFramework8DropDownC10listHeight12CoreGraphics7CGFloatVvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC10listHeight14CoreFoundation7CGFloatVvM",
+                "mangledName": "$s13LoanFramework8DropDownC10listHeight12CoreGraphics7CGFloatVvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "optionArray",
+            "printedName": "optionArray",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC11optionArraySaySSGvp",
+            "mangledName": "$s13LoanFramework8DropDownC11optionArraySaySSGvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC11optionArraySaySSGvg",
+                "mangledName": "$s13LoanFramework8DropDownC11optionArraySaySSGvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC11optionArraySaySSGvs",
+                "mangledName": "$s13LoanFramework8DropDownC11optionArraySaySSGvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC11optionArraySaySSGvM",
+                "mangledName": "$s13LoanFramework8DropDownC11optionArraySaySSGvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "optionheadersArray",
+            "printedName": "optionheadersArray",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC18optionheadersArraySaySSGvp",
+            "mangledName": "$s13LoanFramework8DropDownC18optionheadersArraySaySSGvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC18optionheadersArraySaySSGvg",
+                "mangledName": "$s13LoanFramework8DropDownC18optionheadersArraySaySSGvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC18optionheadersArraySaySSGvs",
+                "mangledName": "$s13LoanFramework8DropDownC18optionheadersArraySaySSGvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC18optionheadersArraySaySSGvM",
+                "mangledName": "$s13LoanFramework8DropDownC18optionheadersArraySaySSGvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "majorCities",
+            "printedName": "majorCities",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC11majorCitiesSaySSGvp",
+            "mangledName": "$s13LoanFramework8DropDownC11majorCitiesSaySSGvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC11majorCitiesSaySSGvg",
+                "mangledName": "$s13LoanFramework8DropDownC11majorCitiesSaySSGvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC11majorCitiesSaySSGvs",
+                "mangledName": "$s13LoanFramework8DropDownC11majorCitiesSaySSGvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC11majorCitiesSaySSGvM",
+                "mangledName": "$s13LoanFramework8DropDownC11majorCitiesSaySSGvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sectionsRequired",
+            "printedName": "sectionsRequired",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC16sectionsRequiredSivp",
+            "mangledName": "$s13LoanFramework8DropDownC16sectionsRequiredSivp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16sectionsRequiredSivg",
+                "mangledName": "$s13LoanFramework8DropDownC16sectionsRequiredSivg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16sectionsRequiredSivs",
+                "mangledName": "$s13LoanFramework8DropDownC16sectionsRequiredSivs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16sectionsRequiredSivM",
+                "mangledName": "$s13LoanFramework8DropDownC16sectionsRequiredSivM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "hideArrow",
+            "printedName": "hideArrow",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC9hideArrowSbvp",
+            "mangledName": "$s13LoanFramework8DropDownC9hideArrowSbvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC9hideArrowSbvg",
+                "mangledName": "$s13LoanFramework8DropDownC9hideArrowSbvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC9hideArrowSbvs",
+                "mangledName": "$s13LoanFramework8DropDownC9hideArrowSbvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC9hideArrowSbvM",
+                "mangledName": "$s13LoanFramework8DropDownC9hideArrowSbvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "optionImageArray",
+            "printedName": "optionImageArray",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC16optionImageArraySaySSGvp",
+            "mangledName": "$s13LoanFramework8DropDownC16optionImageArraySaySSGvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16optionImageArraySaySSGvg",
+                "mangledName": "$s13LoanFramework8DropDownC16optionImageArraySaySSGvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16optionImageArraySaySSGvs",
+                "mangledName": "$s13LoanFramework8DropDownC16optionImageArraySaySSGvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16optionImageArraySaySSGvM",
+                "mangledName": "$s13LoanFramework8DropDownC16optionImageArraySaySSGvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "optionIds",
+            "printedName": "optionIds",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.Int]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.Int]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13LoanFramework8DropDownC9optionIdsSaySiGSgvp",
+            "mangledName": "$s13LoanFramework8DropDownC9optionIdsSaySiGSgvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.Int]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.Int]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Int",
+                            "printedName": "Swift.Int",
+                            "usr": "s:Si"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC9optionIdsSaySiGSgvg",
+                "mangledName": "$s13LoanFramework8DropDownC9optionIdsSaySiGSgvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.Int]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.Int]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Int",
+                            "printedName": "Swift.Int",
+                            "usr": "s:Si"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC9optionIdsSaySiGSgvs",
+                "mangledName": "$s13LoanFramework8DropDownC9optionIdsSaySiGSgvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC9optionIdsSaySiGSgvM",
+                "mangledName": "$s13LoanFramework8DropDownC9optionIdsSaySiGSgvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "arrowSize",
+            "printedName": "arrowSize",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)arrowSize",
+            "mangledName": "$s13LoanFramework8DropDownC9arrowSize12CoreGraphics7CGFloatVvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)arrowSize",
+                "mangledName": "$s13LoanFramework8DropDownC9arrowSize12CoreGraphics7CGFloatVvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setArrowSize:",
+                "mangledName": "$s13LoanFramework8DropDownC9arrowSize12CoreGraphics7CGFloatVvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC9arrowSize14CoreFoundation7CGFloatVvM",
+                "mangledName": "$s13LoanFramework8DropDownC9arrowSize12CoreGraphics7CGFloatVvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "arrowColor",
+            "printedName": "arrowColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)arrowColor",
+            "mangledName": "$s13LoanFramework8DropDownC10arrowColorSo7UIColorCvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)arrowColor",
+                "mangledName": "$s13LoanFramework8DropDownC10arrowColorSo7UIColorCvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setArrowColor:",
+                "mangledName": "$s13LoanFramework8DropDownC10arrowColorSo7UIColorCvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC10arrowColorSo7UIColorCvM",
+                "mangledName": "$s13LoanFramework8DropDownC10arrowColorSo7UIColorCvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "checkMarkEnabled",
+            "printedName": "checkMarkEnabled",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)checkMarkEnabled",
+            "mangledName": "$s13LoanFramework8DropDownC16checkMarkEnabledSbvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)checkMarkEnabled",
+                "mangledName": "$s13LoanFramework8DropDownC16checkMarkEnabledSbvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setCheckMarkEnabled:",
+                "mangledName": "$s13LoanFramework8DropDownC16checkMarkEnabledSbvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC16checkMarkEnabledSbvM",
+                "mangledName": "$s13LoanFramework8DropDownC16checkMarkEnabledSbvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "handleKeyboard",
+            "printedName": "handleKeyboard",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(py)handleKeyboard",
+            "mangledName": "$s13LoanFramework8DropDownC14handleKeyboardSbvp",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)handleKeyboard",
+                "mangledName": "$s13LoanFramework8DropDownC14handleKeyboardSbvg",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)setHandleKeyboard:",
+                "mangledName": "$s13LoanFramework8DropDownC14handleKeyboardSbvs",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13LoanFramework8DropDownC14handleKeyboardSbvM",
+                "mangledName": "$s13LoanFramework8DropDownC14handleKeyboardSbvM",
+                "moduleName": "LoanFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DropDown",
+                "printedName": "LoanFramework.DropDown",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)initWithFrame:",
+            "mangledName": "$s13LoanFramework8DropDownC5frameACSo6CGRectV_tcfc",
+            "moduleName": "LoanFramework",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DropDown",
+                "printedName": "LoanFramework.DropDown",
+                "usr": "c:@M@LoanFramework@objc(cs)DropDown"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)initWithCoder:",
+            "mangledName": "$s13LoanFramework8DropDownC5coderACSo7NSCoderC_tcfc",
+            "moduleName": "LoanFramework",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "showList",
+            "printedName": "showList()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13LoanFramework8DropDownC8showListyyF",
+            "mangledName": "$s13LoanFramework8DropDownC8showListyyF",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "hideList",
+            "printedName": "hideList()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13LoanFramework8DropDownC8hideListyyF",
+            "mangledName": "$s13LoanFramework8DropDownC8hideListyyF",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "touchAction",
+            "printedName": "touchAction()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@LoanFramework@objc(cs)DropDown(im)touchAction",
+            "mangledName": "$s13LoanFramework8DropDownC11touchActionyyF",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "didSelect",
+            "printedName": "didSelect(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String, Swift.Int, Swift.Int) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.String, Swift.Int, Swift.Int)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13LoanFramework8DropDownC9didSelect10completionyySS_S2itc_tF",
+            "mangledName": "$s13LoanFramework8DropDownC9didSelect10completionyySS_S2itc_tF",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "listWillAppear",
+            "printedName": "listWillAppear(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13LoanFramework8DropDownC14listWillAppear10completionyyyc_tF",
+            "mangledName": "$s13LoanFramework8DropDownC14listWillAppear10completionyyyc_tF",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "listDidAppear",
+            "printedName": "listDidAppear(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13LoanFramework8DropDownC13listDidAppear10completionyyyc_tF",
+            "mangledName": "$s13LoanFramework8DropDownC13listDidAppear10completionyyyc_tF",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "listWillDisappear",
+            "printedName": "listWillDisappear(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13LoanFramework8DropDownC17listWillDisappear10completionyyyc_tF",
+            "mangledName": "$s13LoanFramework8DropDownC17listWillDisappear10completionyyyc_tF",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "listDidDisappear",
+            "printedName": "listDidDisappear(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13LoanFramework8DropDownC16listDidDisappear10completionyyyc_tF",
+            "mangledName": "$s13LoanFramework8DropDownC16listDidDisappear10completionyyyc_tF",
+            "moduleName": "LoanFramework",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "textFieldShouldReturn",
+            "printedName": "textFieldShouldReturn(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITextField",
+                "printedName": "UIKit.UITextField",
+                "usr": "c:objc(cs)UITextField"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@LoanFramework@objc(cs)DropDown(im)textFieldShouldReturn:",
+            "mangledName": "$s13LoanFramework8DropDownC21textFieldShouldReturnySbSo06UITextF0CF",
+            "moduleName": "LoanFramework",
+            "objc_name": "textFieldShouldReturn:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "textFieldDidBeginEditing",
+            "printedName": "textFieldDidBeginEditing(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITextField",
+                "printedName": "UIKit.UITextField",
+                "usr": "c:objc(cs)UITextField"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@LoanFramework@objc(cs)DropDown(im)textFieldDidBeginEditing:",
+            "mangledName": "$s13LoanFramework8DropDownC24textFieldDidBeginEditingyySo06UITextF0CF",
+            "moduleName": "LoanFramework",
+            "objc_name": "textFieldDidBeginEditing:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "textFieldShouldBeginEditing",
+            "printedName": "textFieldShouldBeginEditing(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITextField",
+                "printedName": "UIKit.UITextField",
+                "usr": "c:objc(cs)UITextField"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@LoanFramework@objc(cs)DropDown(im)textFieldShouldBeginEditing:",
+            "mangledName": "$s13LoanFramework8DropDownC27textFieldShouldBeginEditingySbSo06UITextF0CF",
+            "moduleName": "LoanFramework",
+            "objc_name": "textFieldShouldBeginEditing:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "textField",
+            "printedName": "textField(_:shouldChangeCharactersIn:replacementString:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITextField",
+                "printedName": "UIKit.UITextField",
+                "usr": "c:objc(cs)UITextField"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "_NSRange",
+                "printedName": "Foundation._NSRange",
+                "usr": "c:@S@_NSRange"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@LoanFramework@objc(cs)DropDown(im)textField:shouldChangeCharactersInRange:replacementString:",
+            "mangledName": "$s13LoanFramework8DropDownC9textField_24shouldChangeCharactersIn17replacementStringSbSo06UITextF0C_So8_NSRangeVSStF",
+            "moduleName": "LoanFramework",
+            "objc_name": "textField:shouldChangeCharactersInRange:replacementString:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "numberOfSections",
+            "printedName": "numberOfSections(in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@LoanFramework@objc(cs)DropDown(im)numberOfSectionsInTableView:",
+            "mangledName": "$s13LoanFramework8DropDownC16numberOfSections2inSiSo11UITableViewC_tF",
+            "moduleName": "LoanFramework",
+            "objc_name": "numberOfSectionsInTableView:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:numberOfRowsInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@LoanFramework@objc(cs)DropDown(im)tableView:numberOfRowsInSection:",
+            "mangledName": "$s13LoanFramework8DropDownC9tableView_21numberOfRowsInSectionSiSo07UITableF0C_SitF",
+            "moduleName": "LoanFramework",
+            "objc_name": "tableView:numberOfRowsInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:heightForHeaderInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@LoanFramework@objc(cs)DropDown(im)tableView:heightForHeaderInSection:",
+            "mangledName": "$s13LoanFramework8DropDownC9tableView_24heightForHeaderInSection12CoreGraphics7CGFloatVSo07UITableF0C_SitF",
+            "moduleName": "LoanFramework",
+            "objc_name": "tableView:heightForHeaderInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:viewForHeaderInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@LoanFramework@objc(cs)DropDown(im)tableView:viewForHeaderInSection:",
+            "mangledName": "$s13LoanFramework8DropDownC9tableView_22viewForHeaderInSectionSo6UIViewCSgSo07UITableF0C_SitF",
+            "moduleName": "LoanFramework",
+            "objc_name": "tableView:viewForHeaderInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:cellForRowAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UITableViewCell",
+                "printedName": "UIKit.UITableViewCell",
+                "usr": "c:objc(cs)UITableViewCell"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@LoanFramework@objc(cs)DropDown(im)tableView:cellForRowAtIndexPath:",
+            "mangledName": "$s13LoanFramework8DropDownC9tableView_12cellForRowAtSo07UITableF4CellCSo0kF0C_10Foundation9IndexPathVtF",
+            "moduleName": "LoanFramework",
+            "objc_name": "tableView:cellForRowAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:didSelectRowAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@LoanFramework@objc(cs)DropDown(im)tableView:didSelectRowAtIndexPath:",
+            "mangledName": "$s13LoanFramework8DropDownC9tableView_14didSelectRowAtySo07UITableF0C_10Foundation9IndexPathVtF",
+            "moduleName": "LoanFramework",
+            "objc_name": "tableView:didSelectRowAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@LoanFramework@objc(cs)DropDown",
+        "mangledName": "$s13LoanFramework8DropDownC",
+        "moduleName": "LoanFramework",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UITextField",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UITextField",
+          "UIKit.UIControl",
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
         "moduleName": "LoanFramework"
       },
       {
@@ -91,6 +3341,16 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "LoanFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -334,10 +3594,7 @@
         "name": "Alamofire",
         "printedName": "Alamofire",
         "declKind": "Import",
-        "moduleName": "LoanFramework",
-        "declAttributes": [
-          "Exported"
-        ]
+        "moduleName": "LoanFramework"
       },
       {
         "kind": "Import",
@@ -358,10 +3615,7 @@
         "name": "Alamofire",
         "printedName": "Alamofire",
         "declKind": "Import",
-        "moduleName": "LoanFramework",
-        "declAttributes": [
-          "Exported"
-        ]
+        "moduleName": "LoanFramework"
       },
       {
         "kind": "Import",
@@ -387,6 +3641,36 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "LoanFramework",
         "declAttributes": [
@@ -472,6 +3756,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -479,6 +3773,63 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "LoanFramework"
       },
       {
         "kind": "Import",
@@ -509,6 +3860,23 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LoanFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LoanFramework"
       },
       {
         "kind": "Import",
@@ -753,6 +4121,321 @@
     "json_format_version": 8
   },
   "ConstValues": [
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 379,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "BooleanLiteral",
+      "offset": 425,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 488,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 490,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 502,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 504,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 515,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 517,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 529,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 572,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 574,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 586,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 588,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 599,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 601,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 613,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 697,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "BooleanLiteral",
+      "offset": 951,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1010,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1465,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "FloatLiteral",
+      "offset": 1557,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "FloatLiteral",
+      "offset": 2195,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2451,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2748,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2754,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2848,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "FloatLiteral",
+      "offset": 2893,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "Array",
+      "offset": 2928,
+      "length": 28,
+      "value": "[\"Major Cities\", \"Cities\"]"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "Array",
+      "offset": 2992,
+      "length": 37,
+      "value": "[\"Albia\", \"Hyderabad\", \"bangalore\"]"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3640,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "StringLiteral",
+      "offset": 4002,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4768,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4795,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4640,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5041,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5146,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "FloatLiteral",
+      "offset": 5964,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "FloatLiteral",
+      "offset": 5972,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6305,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6331,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7478,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21149,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21276,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21404,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/DropDown\/DropDown.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22657,
+      "length": 4,
+      "value": "true"
+    },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/BaseClass\/AttributeLabel.swift",
       "kind": "IntegerLiteral",
@@ -1275,34 +4958,34 @@
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 196,
-      "length": 112,
-      "value": "\"You BVN is linked to your VERIFYED profile. Please enter your KYC soft token to help us validate your identity\""
+      "length": 113,
+      "value": "\"Your BVN is linked to your VERIFYED profile. Please enter your KYC soft token to help us validate your identity\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 364,
+      "offset": 365,
       "length": 8,
       "value": "\"6c5ce7\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 390,
+      "offset": 391,
       "length": 8,
       "value": "\"479020\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 421,
+      "offset": 422,
       "length": 8,
       "value": "\"0053d5\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 447,
+      "offset": 448,
       "length": 8,
       "value": "\"f7f7f7\""
     },
@@ -2058,21 +5741,63 @@
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Extension\/UIViewControllerExtension.swift",
       "kind": "BooleanLiteral",
-      "offset": 345,
+      "offset": 186,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Extension\/UIViewControllerExtension.swift",
       "kind": "StringLiteral",
-      "offset": 6281,
+      "offset": 201,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Extension\/UIViewControllerExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 216,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Extension\/UIViewControllerExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 232,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Extension\/UIViewControllerExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 258,
+      "length": 61,
+      "value": "\"No internet connection. Please check your network settings.\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Extension\/UIViewControllerExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 335,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Extension\/UIViewControllerExtension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 520,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Extension\/UIViewControllerExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6695,
       "length": 12,
       "value": "\"yyyy-MM-dd\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Extension\/UIViewControllerExtension.swift",
       "kind": "BooleanLiteral",
-      "offset": 7754,
+      "offset": 8168,
       "length": 5,
       "value": "false"
     },
@@ -2140,452 +5865,557 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Utility\/UserSessionManager.swift",
+      "kind": "StringLiteral",
+      "offset": 829,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Utility\/UserSessionManager.swift",
+      "kind": "StringLiteral",
+      "offset": 868,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Common\/Utility\/UserSessionManager.swift",
+      "kind": "StringLiteral",
+      "offset": 907,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 225,
+      "offset": 214,
       "length": 36,
       "value": "\"\/instacard\/api\/v1\/listofinstacards\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 291,
+      "offset": 280,
       "length": 43,
       "value": "\"\/instacard\/api\/v1\/listofbvnlinkedaccounts\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 359,
+      "offset": 348,
       "length": 32,
       "value": "\"\/instacard\/api\/v1\/verifyapppin\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 414,
+      "offset": 403,
       "length": 30,
       "value": "\"\/instacard\/api\/v1\/addnewcard\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 470,
+      "offset": 459,
       "length": 33,
       "value": "\"\/instacard\/api\/v1\/getcarddetail\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 522,
+      "offset": 511,
       "length": 26,
       "value": "\"\/instacard\/api\/v1\/setpin\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 575,
+      "offset": 564,
       "length": 29,
       "value": "\"\/instacard\/api\/v1\/verifypin\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 630,
+      "offset": 619,
       "length": 33,
       "value": "\"\/instacard\/api\/v1\/paymentlimits\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 694,
+      "offset": 683,
       "length": 38,
       "value": "\"\/instacard\/api\/v1\/updatepaymentlimit\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 756,
+      "offset": 745,
       "length": 31,
       "value": "\"\/instacard\/api\/v1\/unblockcard\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 809,
+      "offset": 798,
       "length": 29,
       "value": "\"\/instacard\/api\/v1\/blockcard\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 872,
+      "offset": 861,
       "length": 41,
       "value": "\"\/instacard\/api\/v1\/creditcardoutstanding\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 935,
+      "offset": 924,
       "length": 29,
       "value": "\"\/instacard\/api\/v1\/changepin\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 993,
+      "offset": 982,
       "length": 36,
       "value": "\"\/instacard\/api\/v1\/adduniversalcard\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1062,
+      "offset": 1051,
       "length": 39,
       "value": "\"\/instacard\/api\/v1\/listofuniversalcard\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1134,
+      "offset": 1123,
       "length": 43,
       "value": "\"\/instacard\/api\/v1\/unbilledcardtransaction\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1198,
+      "offset": 1187,
       "length": 28,
       "value": "\"\/instacard\/api\/v1\/addmoney\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1258,
+      "offset": 1247,
       "length": 39,
       "value": "\"\/instacard\/api\/v1\/unmaskedcarddetails\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1330,
+      "offset": 1319,
       "length": 40,
       "value": "\"\/instacard\/api\/v1\/debitcardtransaction\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1392,
+      "offset": 1381,
       "length": 29,
       "value": "\"\/instacard\/api\/v1\/repayment\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1451,
+      "offset": 1440,
       "length": 37,
       "value": "\"\/instacard\/api\/v1\/crediteligibility\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1513,
+      "offset": 1502,
       "length": 34,
       "value": "\"\/instacard\/api\/v1\/faceliveliness\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1575,
+      "offset": 1564,
       "length": 35,
       "value": "\"\/verifyed\/api\/v1\/sbvnverification\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1633,
+      "offset": 1622,
       "length": 33,
       "value": "\"\/instacard\/api\/v1\/getbvndetails\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1686,
+      "offset": 1675,
       "length": 27,
       "value": "\"\/instacard\/api\/v1\/sendotp\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1735,
+      "offset": 1724,
       "length": 29,
       "value": "\"\/instacard\/api\/v1\/verifyotp\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1800,
+      "offset": 1789,
       "length": 33,
       "value": "\"\/instacard\/api\/v1\/getwalletInfo\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1860,
+      "offset": 1849,
       "length": 34,
       "value": "\"\/instacard\/api\/v1\/alltransaction\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1924,
+      "offset": 1913,
       "length": 37,
       "value": "\"\/verifyed\/api\/v1\/svalidatesofttoken\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1985,
+      "offset": 1974,
       "length": 31,
       "value": "\"\/verifyed\/api\/v1\/sopenaccount\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2038,
+      "offset": 2027,
       "length": 27,
       "value": "\"\/verifyed\/api\/v1\/ssendotp\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2092,
+      "offset": 2081,
       "length": 37,
       "value": "\"\/verifyed\/api\/v1\/sbvnfaceliveliness\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2156,
+      "offset": 2145,
       "length": 32,
       "value": "\"\/kyc\/v1\/getverifymeuserdetails\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2217,
+      "offset": 2206,
       "length": 36,
       "value": "\"\/verifyed\/api\/v1\/ssavepersonalinfo\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2280,
+      "offset": 2269,
       "length": 46,
       "value": "\"\/verifyed\/api\/v1\/sgetkyclevelwithacctdetails\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2365,
+      "offset": 2354,
       "length": 37,
       "value": "\"\/verifyed\/api\/v1\/sninfaceliveliness\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2430,
+      "offset": 2419,
       "length": 39,
       "value": "\"\/verifyed\/api\/v1\/supgradenextkyclevel\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2493,
+      "offset": 2482,
       "length": 29,
       "value": "\"\/verifyed\/api\/v1\/sverifyotp\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2557,
+      "offset": 2546,
       "length": 42,
       "value": "\"\/verifyed\/api\/v1\/sbvnverificationdetails\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2634,
+      "offset": 2623,
       "length": 42,
       "value": "\"\/verifyed\/api\/v1\/sninverificationdetails\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2703,
+      "offset": 2692,
       "length": 34,
       "value": "\"\/verifyed\/api\/v1\/sidverification\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2775,
+      "offset": 2764,
       "length": 35,
       "value": "\"\/kyc\/v1\/addressverificationstatus\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2837,
+      "offset": 2826,
       "length": 34,
       "value": "\"\/verifyed\/api\/v1\/sproofofaddress\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2899,
+      "offset": 2888,
       "length": 53,
       "value": "\"\/verifyed\/api\/user\/v1\/getListOfElectricityProviders\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 2975,
+      "offset": 2964,
       "length": 30,
       "value": "\"\/verifyed\/api\/v1\/sverifyuser\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 3032,
+      "offset": 3021,
       "length": 34,
       "value": "\"\/verifyed\/api\/v1\/sgenerateqrcode\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 3089,
+      "offset": 3078,
       "length": 30,
       "value": "\"\/instacard\/api\/v1\/deletecard\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 3151,
+      "offset": 3136,
+      "length": 33,
+      "value": "\"\/paylink\/api\/loan\/bankseligible\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 3191,
+      "length": 31,
+      "value": "\"\/paylink\/api\/loan\/processloan\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 3251,
+      "length": 34,
+      "value": "\"\/paylink\/api\/loan\/loanstatements\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 3361,
       "length": 33,
       "value": "\"\/merchant\/api\/v1\/get\/categories\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 3219,
+      "offset": 3429,
       "length": 36,
       "value": "\"\/merchant\/api\/v1\/get\/subcategories\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 3283,
-      "length": 26,
-      "value": "\"\/customer\/api\/v1\/loanelg\""
+      "offset": 3498,
+      "length": 27,
+      "value": "\"\/merchant\/api\/v1\/register\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 3331,
-      "length": 28,
-      "value": "\"\/customer\/api\/v1\/applyloan\""
+      "offset": 3555,
+      "length": 35,
+      "value": "\"\/registration\/api\/v1\/businessdocs\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 3382,
-      "length": 29,
-      "value": "\"\/customer\/api\/v1\/submitloan\""
+      "offset": 3616,
+      "length": 56,
+      "value": "\"\/kyc\/api\/google-services\/address-verification\/address\/\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 3512,
+      "offset": 3701,
+      "length": 38,
+      "value": "\"\/registration\/api\/v1\/onboardcustomer\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 3777,
       "length": 28,
-      "value": "\"https:\/\/api-dev.montra.org\""
+      "value": "\"\/registration\/api\/v1\/addwa\""
     },
     {
-      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/OAAPIServices.swift",
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 217,
-      "length": 28,
-      "value": "\"https:\/\/api-dev.montra.org\""
+      "offset": 3838,
+      "length": 43,
+      "value": "\"\/registration\/api\/v1\/facelivelinessstatus\""
     },
     {
-      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/Model\/EligibleLoan.swift",
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1031,
-      "length": 16,
-      "value": "\"eligibleamount\""
+      "offset": 3924,
+      "length": 45,
+      "value": "\"\/registration\/api\/v1\/bvnverificationdetails\""
     },
     {
-      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/Model\/EligibleLoan.swift",
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1117,
-      "length": 10,
-      "value": "\"bankname\""
+      "offset": 3992,
+      "length": 33,
+      "value": "\"\/registration\/api\/v1\/kycsendotp\""
     },
     {
-      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/Model\/EligibleLoan.swift",
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1156,
-      "length": 10,
-      "value": "\"bankicon\""
+      "offset": 4050,
+      "length": 35,
+      "value": "\"\/registration\/api\/v1\/kycverifyotp\""
     },
     {
-      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/Model\/EligibleLoan.swift",
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
       "kind": "StringLiteral",
-      "offset": 1664,
-      "length": 16,
-      "value": "\"eligibleamount\""
-    },
-    {
-      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/Model\/EligibleLoan.swift",
-      "kind": "StringLiteral",
-      "offset": 1733,
+      "offset": 4115,
       "length": 21,
-      "value": "\"creditlifeinsurance\""
+      "value": "\"\/merchant\/api\/v1\/pg\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 4188,
+      "length": 23,
+      "value": "\"\/pos\/api\/v1\/listofpos\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 4241,
+      "length": 28,
+      "value": "\"\/pos\/api\/v1\/deliverystatus\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 4288,
+      "length": 20,
+      "value": "\"\/pos\/api\/v1\/buypos\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 4335,
+      "length": 28,
+      "value": "\"\/pos\/api\/v1\/listofposorder\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 4407,
+      "length": 21,
+      "value": "\"\/kyc\/api\/v1\/userloc\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Networking\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 4491,
+      "length": 29,
+      "value": "\"\/instacard\/api\/v1\/txndetail\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/AppPin\/View\/LendingAppPinVC.swift",
+      "kind": "StringLiteral",
+      "offset": 312,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/AppPin\/ViewModel\/LendingPINVM.swift",
+      "kind": "StringLiteral",
+      "offset": 419,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/LoanDetails\/View\/LoanDetailsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 715,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/LoanDetails\/View\/PayLoanAmountVC.swift",
+      "kind": "Array",
+      "offset": 336,
+      "length": 57,
+      "value": "[\"34545456345\", \"34523423454\", \"98759795678\", \"34545456355\"]"
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/LoanDetails\/View\/PayLoanAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 427,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/LoanDetails\/View\/PayLoanAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 454,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/Model\/EligibleLoan.swift",
       "kind": "StringLiteral",
-      "offset": 2189,
-      "length": 16,
-      "value": "\"approvalstatus\""
-    },
-    {
-      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/Model\/EligibleLoan.swift",
-      "kind": "StringLiteral",
-      "offset": 2239,
-      "length": 19,
-      "value": "\"bankaccountnumber\""
-    },
-    {
-      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/Model\/EligibleLoan.swift",
-      "kind": "StringLiteral",
-      "offset": 2289,
-      "length": 16,
-      "value": "\"eligibleamount\""
-    },
-    {
-      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/Model\/EligibleLoan.swift",
-      "kind": "StringLiteral",
-      "offset": 2330,
+      "offset": 618,
       "length": 10,
-      "value": "\"bankname\""
+      "value": "\"Products\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/Model\/EligibleLoan.swift",
       "kind": "StringLiteral",
-      "offset": 2365,
-      "length": 10,
-      "value": "\"bankicon\""
+      "offset": 2495,
+      "length": 18,
+      "value": "\"ProcessedDetails\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/View\/FinServiceVC.swift",
@@ -2595,16 +6425,51 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/View\/LoanChargesDetailVC.swift",
+      "kind": "StringLiteral",
+      "offset": 926,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/View\/LoanEligibilityStatusVC.swift",
+      "kind": "StringLiteral",
+      "offset": 240,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/View\/LoanRequestSuccessVC.swift",
+      "kind": "StringLiteral",
+      "offset": 690,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/ViewModel\/BankLoanListVM.swift",
       "kind": "StringLiteral",
-      "offset": 262,
+      "offset": 232,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/ViewModel\/LoanApplyVM.swift",
+      "kind": "StringLiteral",
+      "offset": 477,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/ViewModel\/LoanApprovalVM.swift",
       "kind": "StringLiteral",
-      "offset": 499,
+      "offset": 512,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sreekar\/Desktop\/Loan\/LoanFramework\/Src\/ViewModel\/LoanEligibilityVM.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
       "length": 2,
       "value": "\"\""
     },
@@ -2751,140 +6616,140 @@
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 826,
+      "offset": 733,
       "length": 12,
       "value": "\"AccessBank\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 998,
+      "offset": 883,
       "length": 16,
       "value": "\"AccessLogoBlue\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1166,
+      "offset": 1029,
       "length": 12,
       "value": "\"CreditCard\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1330,
+      "offset": 1171,
       "length": 12,
       "value": "\"PaydayLoan\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1509,
+      "offset": 1328,
       "length": 20,
       "value": "\"Payment Successful\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1669,
+      "offset": 1466,
       "length": 6,
       "value": "\"STPL\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1833,
+      "offset": 1608,
       "length": 15,
       "value": "\"SalaryAdvance\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1994,
+      "offset": 1747,
       "length": 9,
       "value": "\"Success\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2143,
+      "offset": 1874,
       "length": 6,
       "value": "\"back\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2295,
+      "offset": 2004,
       "length": 9,
       "value": "\"carLoan\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2474,
+      "offset": 2161,
       "length": 21,
       "value": "\"consumerdurableloan\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2649,
+      "offset": 2314,
       "length": 13,
       "value": "\"failureIcon\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2802,
+      "offset": 2445,
       "length": 6,
       "value": "\"home\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2956,
+      "offset": 2577,
       "length": 10,
       "value": "\"homeLoan\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3120,
+      "offset": 2719,
       "length": 13,
       "value": "\"lendingLogo\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3291,
+      "offset": 2868,
       "length": 15,
       "value": "\"loanRepayment\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3462,
+      "offset": 3017,
       "length": 14,
       "value": "\"personalLoan\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3648,
+      "offset": 3181,
       "length": 22,
       "value": "\"trackLoanApplication\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3826,
+      "offset": 3337,
       "length": 14,
       "value": "\"trackpayment\""
     },
     {
       "filePath": "\/Users\/sreekar\/Library\/Developer\/Xcode\/DerivedData\/Loan-eyfuhzqzoiaatzgvxhqxhwtlquir\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LoanFramework\/IntermediateBuildFilesPath\/Loan.build\/Release-iphonesimulator\/LoanFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3996,
+      "offset": 3485,
       "length": 14,
       "value": "\"verifyedlogo\""
     }

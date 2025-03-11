@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		QACjtIBwtTeTTwQo93qxyz+nyy8=
+		whrWimI9AFWFtiJl/UXJwyt2oME=
 		</data>
 		<key>Headers/LoanFramework.h</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		G0tevw8LVPaFVVdhGiqIXiKZ0dY=
+		fosEHm785Auo22LXulKwfgrkVMo=
 		</data>
 		<key>Lending.storyboardc/05i-CF-LwH-view-60s-iy-fAt.nib</key>
 		<data>
-		Y37wnb/W5RxJsD1iNh4q5YQ5SBA=
+		RbU6PSXrkULWwmEurYICzVhx0rY=
 		</data>
 		<key>Lending.storyboardc/BankLoanListVC.nib</key>
 		<data>
@@ -28,9 +28,13 @@
 		<data>
 		fLyauu0f7wJFxmAOtnzKsGXchFw=
 		</data>
+		<key>Lending.storyboardc/Icp-ys-7cs-view-ArL-0p-Dzi.nib</key>
+		<data>
+		23DroKAcg0dTlMK1SdFeznFg2rs=
+		</data>
 		<key>Lending.storyboardc/Info.plist</key>
 		<data>
-		k9+ENugU0RyN+hybDCozIx0j0yI=
+		MFPtgo4UXPXfpdVO3buGzrtVzkE=
 		</data>
 		<key>Lending.storyboardc/LendingAppPinVC.nib</key>
 		<data>
@@ -40,49 +44,101 @@
 		<data>
 		k4xtFDVYNKL9lPo/RKnAF1vaiKY=
 		</data>
+		<key>Lending.storyboardc/LoanDetailsVC.nib</key>
+		<data>
+		rNJ77ox2PAtWxfmciRtSvN7jr5o=
+		</data>
+		<key>Lending.storyboardc/LoanEligibilityStatusVC.nib</key>
+		<data>
+		ukcY3RSaVaFtifE+lcSGGZnMISg=
+		</data>
+		<key>Lending.storyboardc/LoanRepaymentVC.nib</key>
+		<data>
+		Barwvi0Nzzx0epA6uZmP49a6yxA=
+		</data>
 		<key>Lending.storyboardc/LoanRequestSuccessVC.nib</key>
 		<data>
 		ihkFc9+9sLHM9lDQca/yh+TYNjU=
 		</data>
+		<key>Lending.storyboardc/LoanTrackingStatusVC.nib</key>
+		<data>
+		ul3yEW4O7BjwPENftRP9MAfclr0=
+		</data>
+		<key>Lending.storyboardc/PayLoanAmountVC.nib</key>
+		<data>
+		oRAXOasRSMySIh83D14ZkZv8WZ0=
+		</data>
+		<key>Lending.storyboardc/Q5D-7W-5J0-view-sBS-iG-Oiw.nib</key>
+		<data>
+		XoygJ5OHlXTxCjnN+qf7PXi4/HM=
+		</data>
+		<key>Lending.storyboardc/Tb1-Eq-EVn-view-ZCE-mo-mqD.nib</key>
+		<data>
+		SznAOlW8StPGllrRdw18hEd2as8=
+		</data>
+		<key>Lending.storyboardc/TrackLoanVC.nib</key>
+		<data>
+		VC//9apnsIdgfEs3nAeFHn2P7uc=
+		</data>
 		<key>Lending.storyboardc/UINavigationController-Rkp-wV-Znz.nib</key>
 		<data>
-		80V3H2ARdRx1YGwb/pbgW2ECFIc=
+		p8i0+QZ6G+8gPL7TlDUddehj8uM=
+		</data>
+		<key>Lending.storyboardc/ViewLoanStatementVC.nib</key>
+		<data>
+		ILDzpm1cn4NpMpWxVKae7KBz75M=
+		</data>
+		<key>Lending.storyboardc/Z0G-M5-FaA-view-hS5-SU-DbK.nib</key>
+		<data>
+		D2IZMmovvezqfCFisJVlHS4fPbM=
 		</data>
 		<key>Lending.storyboardc/ete-Qi-fcK-view-23g-Za-IQ6.nib</key>
 		<data>
-		PWGZA7ZktbHzb8Bw8P45hOEAw1E=
+		HKmADg9Fv3JKeaxuC2dfiXJJkxs=
+		</data>
+		<key>Lending.storyboardc/mQ8-nc-W0X-view-vtK-Uf-us9.nib</key>
+		<data>
+		OOEZTWE+m2+4sqfUOUUuxBWbSeI=
+		</data>
+		<key>Lending.storyboardc/nTU-Ja-NCd-view-wO0-ru-AAJ.nib</key>
+		<data>
+		8bolC+pVs+97DLsAVPEEyn20/0Q=
 		</data>
 		<key>Lending.storyboardc/tVc-V6-4vW-view-ljj-5f-ZV6.nib</key>
 		<data>
-		0Fb7hMH2gJhtZW+R9uKnd8ouwnw=
+		xoX51z3hkPtiWy3vG/dEZt62w2k=
+		</data>
+		<key>Lending.storyboardc/uXe-Kt-Fpp-view-LbQ-Ym-5AP.nib</key>
+		<data>
+		rjLs5a88SgADgd6rX2Puq+NHkps=
 		</data>
 		<key>Lending.storyboardc/wGe-s3-dhh-view-Ltj-Mb-zc6.nib</key>
 		<data>
-		9d7ZSiv9hrekfc+bFwT+g+aGQSs=
+		BmFj0RbHU4vLgBN8WDQBaLGNUXs=
 		</data>
 		<key>Lending.storyboardc/zXE-4a-6Of-view-cku-L5-KGx.nib</key>
 		<data>
-		TiqG/xvtwqdq9u23TeVDMO4/tsM=
+		ZC2KlAEdLT/jE7pQEppQYbSA8j8=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		IsRdSsDevxSGKKl1kn0FObd3xXE=
+		9u1Bml7EsrGdzbsIAjaYNM2bGYQ=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		JlzWQCXs6rs1VvMvxkX+w3Z6kY4=
+		jiD2zHwv5qonMvP6QOQECXvpADU=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		jfKd8yXgELtlV4aWzJ3JkRAoisE=
+		0Z5/A2jtUafzo5vOHT1McfZrEHc=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		JlzWQCXs6rs1VvMvxkX+w3Z6kY4=
+		jiD2zHwv5qonMvP6QOQECXvpADU=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		OxOmR5dfTd0a175YyQ7ZnZOx26g=
+		IXpcNftM/fcW0UGAJgLm7y0zEzM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -127,7 +183,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qF9bka/druFrDorRnx5vZZxPHPDaEv4miRNXxOZ7RwE=
+			HOcPOU9npIJopjXCFHzLaOTXlc3nNgNyETF/ERfeVTM=
 			</data>
 		</dict>
 		<key>Headers/LoanFramework.h</key>
@@ -141,7 +197,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ULg1bNAVqQWX2pwyTQ8iC3k7EhQVbqvTvYGWZU0uoMI=
+			3hQjfrHFlikFdUY7I6GPe4W3H/MewFauOQBkhDcoWxs=
 			</data>
 		</dict>
 		<key>Lending.storyboardc/BankLoanListVC.nib</key>
@@ -158,11 +214,18 @@
 			u4ka9u4MC5FsWt5ByIrkmicfC1AknXfVu4OIxdGea6s=
 			</data>
 		</dict>
+		<key>Lending.storyboardc/Icp-ys-7cs-view-ArL-0p-Dzi.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d/p2z8/yn9L0LMOe/nDnsY/pkhG2jyEieehGZHDjYhg=
+			</data>
+		</dict>
 		<key>Lending.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O/8RAr8h0oVNgovkja6Sll9IIE5mD+n9smNoXMmltA4=
+			oTBdqKuKkEMlCl2XMtHHuyXgweP7+xkgC0DpkenENwY=
 			</data>
 		</dict>
 		<key>Lending.storyboardc/LendingAppPinVC.nib</key>
@@ -179,6 +242,27 @@
 			DkL6/qsH4935yk5EMEkIJMwLA2GdcBEWuOW4jhHx7/g=
 			</data>
 		</dict>
+		<key>Lending.storyboardc/LoanDetailsVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			glk119TThTCLqQb3ysMdlteqrhXFhOf+DgWgsHl86Vc=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/LoanEligibilityStatusVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q1V9PTeiXCXPkq7VzOg6uuj4kIfmIGzd7vRn/2oxo7A=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/LoanRepaymentVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vqmOGy7xp9+9Dp0Cu2qOuCpAzprqTYRfFKRl0JDExKc=
+			</data>
+		</dict>
 		<key>Lending.storyboardc/LoanRequestSuccessVC.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -186,74 +270,144 @@
 			Ddr9EG/WKBbbwFbII8/V03Dz2UJtlTj9PcWJDPiNL94=
 			</data>
 		</dict>
+		<key>Lending.storyboardc/LoanTrackingStatusVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CGfJ6VNsdwLXf/wNZANbeuNFfxmvdEAmREqIPOAbqa0=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/PayLoanAmountVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uK4XgUQ3weXcargC/hObmLZr5gYcxRyHK0ESq6msrY0=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/Q5D-7W-5J0-view-sBS-iG-Oiw.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MmodoZJoZHAxC2v1vJb6rrEIrJDjpeHw7hmfvvmqlPQ=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/Tb1-Eq-EVn-view-ZCE-mo-mqD.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d2SrzOvyU2hv0ZAJ4KlXanRiwKI3clO4RMb0ceR76zQ=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/TrackLoanVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			idEbrPl20I9b7l1mxpAsEkh+NYQSol2yDvq9BmVH3OE=
+			</data>
+		</dict>
 		<key>Lending.storyboardc/UINavigationController-Rkp-wV-Znz.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M+e8raoAgH3wxbudhvi/VV2S1eo6o/6ivWQbVdwebLc=
+			dzK/IpB2vDWQWSu6/0P9I1V6cOvSgZjGZaZ14atAxqU=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/ViewLoanStatementVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g4gCHfoyPahhMa7+w2LdUIxoMD1XSxJFJGiF6dU60FM=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/Z0G-M5-FaA-view-hS5-SU-DbK.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wxBEmBHzo+qOnXkxGUiBZyrHuoJHmS72zrWgSpUXMbs=
 			</data>
 		</dict>
 		<key>Lending.storyboardc/ete-Qi-fcK-view-23g-Za-IQ6.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0ks3hsGUy06qA7QzUKDEm29KWrDy0sU/88vc9F8lzN4=
+			Qr1YG4c1lqaw4N+jEHZgwXpRV1hus0UnNfY8hn4KALg=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/mQ8-nc-W0X-view-vtK-Uf-us9.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xICFZPBa/lsQrbcHp8h0Rvikd85s85FNDnph9XcklSA=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/nTU-Ja-NCd-view-wO0-ru-AAJ.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S7vTjSnWodbjkk4XqjncH6MNRLsoA/U7/5HdhliMN0k=
 			</data>
 		</dict>
 		<key>Lending.storyboardc/tVc-V6-4vW-view-ljj-5f-ZV6.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTM4DyleZmO/a9EqNoYu7cpVlsbr50E/NXoAeIF/RjE=
+			c9EddRNYe1i1859GvKvti3Uq/Ltm09UhMauT5WVVH64=
+			</data>
+		</dict>
+		<key>Lending.storyboardc/uXe-Kt-Fpp-view-LbQ-Ym-5AP.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lYlNn6FwGRLXeRxGTEplydYVcRJp0Naq3z+jHz/peJQ=
 			</data>
 		</dict>
 		<key>Lending.storyboardc/wGe-s3-dhh-view-Ltj-Mb-zc6.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CaNT8upqcSNiEmrQ6iViAk2gYbJxpgNySs6CU6hyqAo=
+			t1BM4aNaIZ4C2g1+G8qWTkLGwnbX2z6K/8yLV82HXfs=
 			</data>
 		</dict>
 		<key>Lending.storyboardc/zXE-4a-6Of-view-cku-L5-KGx.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tZb2TrqdBJnuv8gAdOqVroT1LOtxV9R2JxBtoFvgekc=
+			XiUrZakKICHaQu2I7jOUa8/fLaC+KYGn1I3A4xM1j48=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HoKf5a3bWWW9/Lv8nL4h7KKt+Uou/ZCM1UskezWdBWk=
+			ItaD6GAF4FWvtzIpZ+zLOFs6qKy43ERgdh01+xoO0Is=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pgr1IpznJGAfu4ig01JCgqGhPOwW3JyjZD/e0ClkrwQ=
+			iwE0qZteoUzvzrPMOzLOMSLa0y8uwS44dmLnQOcRdaY=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uEn3CgMrtjaI0A8a6jRR19PBQkAGb+V2zPW4nFR0gYI=
+			CcFZiNKuZ2EdYIJ0x4k7eLXYvEwFZAB8g3edMFhA19k=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pgr1IpznJGAfu4ig01JCgqGhPOwW3JyjZD/e0ClkrwQ=
+			iwE0qZteoUzvzrPMOzLOMSLa0y8uwS44dmLnQOcRdaY=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SuIfObB2r+SP5oum7TTioxHF0aM/F94YouTa94wIrEQ=
+			SgKA4TP36yZjbjd4oVyddm85NPJ1GYiMx4Q7wPAxNe8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
