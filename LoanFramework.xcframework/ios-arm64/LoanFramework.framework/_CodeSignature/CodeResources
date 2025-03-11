@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		9u1Bml7EsrGdzbsIAjaYNM2bGYQ=
+		N/iCNM+FdxYR5jKQeKLaUBUO/JY=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jiD2zHwv5qonMvP6QOQECXvpADU=
+		P1Kyvntb5cjWJktQSZlMPqEYrTY=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -134,11 +134,11 @@
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		jiD2zHwv5qonMvP6QOQECXvpADU=
+		P1Kyvntb5cjWJktQSZlMPqEYrTY=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		IXpcNftM/fcW0UGAJgLm7y0zEzM=
+		5BCk8cNGHeAu2RV3lA6QTv4HUP0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -379,14 +379,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ItaD6GAF4FWvtzIpZ+zLOFs6qKy43ERgdh01+xoO0Is=
+			1Ts5MSpe/M7a0MAM3QXuDIOY9p1U6i9Gt05LbUEQZHg=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iwE0qZteoUzvzrPMOzLOMSLa0y8uwS44dmLnQOcRdaY=
+			WEsBKa7rOg/a3v/sMPoIFb2Pwd+KDWPe7FGmeUfyvlo=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -400,14 +400,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iwE0qZteoUzvzrPMOzLOMSLa0y8uwS44dmLnQOcRdaY=
+			WEsBKa7rOg/a3v/sMPoIFb2Pwd+KDWPe7FGmeUfyvlo=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SgKA4TP36yZjbjd4oVyddm85NPJ1GYiMx4Q7wPAxNe8=
+			brQfZFonfmGJApuW5p0FoRu0WGpOXh1e+HakdT9yyTU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
