@@ -126,7 +126,7 @@
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		65l4/JZpVyzHI9/thkFZSF3PGgQ=
+		aAU6Q0LYyZjmKrzvmPizBpxGkQk=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -134,11 +134,11 @@
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		65l4/JZpVyzHI9/thkFZSF3PGgQ=
+		aAU6Q0LYyZjmKrzvmPizBpxGkQk=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1AhM9x4hasCB2vH6QHv/g1s2nYc=
+		NgtxnpllXoowB2vADEOKtihAkGE=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		GSyUsrCkWdCNFRsK2qayiB5KF2I=
+		24ioLQJjvbOIuQIf2QeVrmC0FGk=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -154,11 +154,11 @@
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		GSyUsrCkWdCNFRsK2qayiB5KF2I=
+		24ioLQJjvbOIuQIf2QeVrmC0FGk=
 		</data>
 		<key>Modules/LoanFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		T7581ACU/5b9+hULXddMV4aBxuU=
+		8nb1kcGqLj75M3yHvGNAj4Yin8c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -406,7 +406,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H+/y9iWXZ/lROVP2b1Tc11XQNutZWUWTd/AfY/ff3Xw=
+			CKRwZXKo2xjw8lqXTbAUc4fI5gatslXcUHpAc2P7SgA=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -420,14 +420,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H+/y9iWXZ/lROVP2b1Tc11XQNutZWUWTd/AfY/ff3Xw=
+			CKRwZXKo2xjw8lqXTbAUc4fI5gatslXcUHpAc2P7SgA=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rwbsAA/8+WrBBSs3Oh7cjd36O1LHCu3JAT8PzxSI3+c=
+			JM6WuekBvOQQ6jFS6Yu87yRWybwYZUm4uoW/YdOBcEY=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -441,7 +441,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LseUjXJteEzZUkbEHYz33hkIxDHA6+U/F8VhWkkLZ90=
+			SLML3aibNl5wB5GEqmp9psMtK3UGf1hlTAtrG5+e6uE=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -455,14 +455,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LseUjXJteEzZUkbEHYz33hkIxDHA6+U/F8VhWkkLZ90=
+			SLML3aibNl5wB5GEqmp9psMtK3UGf1hlTAtrG5+e6uE=
 			</data>
 		</dict>
 		<key>Modules/LoanFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B7nGJzIZ7y9OcE3BV3I3LgIpvwtOmJVbu9gnhLyqBIw=
+			oiGNmV+Jnjff7SfY5UTA3u7XHuw5G7nBOqhJJ7AfqxI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

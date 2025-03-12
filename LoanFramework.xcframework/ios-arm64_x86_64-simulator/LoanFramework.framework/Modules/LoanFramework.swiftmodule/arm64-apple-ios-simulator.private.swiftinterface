@@ -112,7 +112,7 @@ public typealias CompletionObject<T> = (_ response: T) -> Swift.Void
 public typealias CompletionOptionalObject<T> = (_ response: T?) -> Swift.Void
 public typealias CompletionResponse = (_ response: Swift.Result<Swift.Void, any Swift.Error>) -> Swift.Void
 public typealias completionBooleanObject<T> = (_ Bool: T?) -> Swift.Void
-@_inheritsConvenienceInitializers @objc public class MyAppSDKManager : ObjectiveC.NSObject {
+@objc @_inheritsConvenienceInitializers public class MyAppSDKManager : ObjectiveC.NSObject {
   public static func launchLending(from presentingViewController: UIKit.UIViewController?, isPush: Swift.Bool?)
   @objc override dynamic public init()
   @objc deinit
